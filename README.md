@@ -1,4 +1,4 @@
-![Screenshot from 2026-04-04 20-13-04](https://github.com/user-attachments/assets/aecd2f96-19f9-43b3-8ce1-1dd5d1877e27)<!-- PURVA PATIL — GitHub Profile README -->
+<!-- PURVA PATIL — GitHub Profile README -->
 
 <div align="center">
 <?xml version="1.0" encoding="UTF-8"?>
@@ -48,7 +48,6 @@
 <path d="M0 0 C0.33 0.99 0.66 1.98 1 3 C-0.65 4.65 -2.3 6.3 -4 8 C-4.66 7.67 -5.32 7.34 -6 7 C-4.02 4.69 -2.04 2.38 0 0 Z " fill="#4E4E4E" transform="translate(819,298)"/>
 <path d="M0 0 C0.33 0 0.66 0 1 0 C0.74438677 2.3431213 0.40729228 4.67843403 0 7 C-0.99 7.495 -0.99 7.495 -2 8 C-2.125 5.125 -2.125 5.125 -2 2 C-1.34 1.34 -0.68 0.68 0 0 Z " fill="#232222" transform="translate(400,258)"/>
 </svg>
-m 2026-04-04 20-13-04.svg…]()
 
 
 ### `< Full-Stack Developer />` · Pune, India 🇮🇳
