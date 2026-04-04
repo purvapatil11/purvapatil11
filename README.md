@@ -1,6 +1,5 @@
 <!-- PURVA PATIL — GitHub Profile README -->
-
-<div align="center">
+![Screenshot from 2026-04-04 20-13-04](https://github.com/user-attachments/assets/aecd2f96-19f9-43b3-8ce1-1dd5d1877e27)<!-- PURVA PATIL — GitHub Profile README --><div align="center">
 <?xml version="1.0" encoding="UTF-8"?>
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1132" height="514">
 <path d="M0 0 C373.56 0 747.12 0 1132 0 C1132 169.62 1132 339.24 1132 514 C758.44 514 384.88 514 0 514 C0 344.38 0 174.76 0 0 Z " fill="#131212" transform="translate(0,0)"/>
@@ -66,7 +65,7 @@
   react · next.js · node.js · express · mongodb · socket.io · tailwind
 
 ~ echo $CURRENTLY
-  building cool things & open to freelance opportunities
+  building cool things & learning AI & Ml
 
 ~ hire purva█
 ```
@@ -74,12 +73,16 @@
 ---
 
 ## ⚡ Tech Stack
-
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
