@@ -54,8 +54,10 @@
 ![Available for freelance](https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20FREELANCE-brightgreen?style=for-the-badge&labelColor=000000)
 
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=purvapatil11&color=c8f04b&style=flat-square&label=PROFILE+VIEWS" />
+</div>
 
----
 
 ```bash
 ~ whoami
@@ -95,9 +97,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=purvapatil11&color=c8f04b&style=flat-square&label=PROFILE+VIEWS" />
-</div>
+
 
 <div align="center">
 
